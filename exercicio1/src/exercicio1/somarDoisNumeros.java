@@ -1,5 +1,3 @@
-package exercicio1;
-
 import java.util.*;
 
 class somarDoisNumeros {
